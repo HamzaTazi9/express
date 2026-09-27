@@ -1,0 +1,15 @@
+{
+  "name": "my-express-app",
+  "version": "1.0.0",
+  "description": "A simple Express.js application that serves a homepage with my name.",
+  "main": "index.mjs",
+  "scripts": {
+    "start": "node index.mjs",
+    "dev": "node --watch index.mjs"
+  },
+  "author": "Hamza Tazi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
